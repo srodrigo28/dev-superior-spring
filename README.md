@@ -1,2 +1,2 @@
 # dev-superior-spring
-curso udemy spring jpa
+curso udemy spring jpa 2
