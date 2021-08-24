@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move 2 elements to &apos;templates&apos;&#x0D;&#x0A;- Original project: &apos;forum&apos;&#x0D;&#x0A;- Destination element: &apos;templates&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     data.sql&#x0D;&#x0A;     data.txt&#x0D;&#x0A;- Update references to refactored element" description="Move files" element1="src/main/resources/data.sql" element2="src/main/resources/data.txt" files="2" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1628478504940" target="src/main/resources/templates" units="0" version="1.0"/>
+</session>

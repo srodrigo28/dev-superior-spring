@@ -1,0 +1,7 @@
+### NetBeans ###
+.vscode/
+build/
+/nbdist/
+
+.metadata/
+
