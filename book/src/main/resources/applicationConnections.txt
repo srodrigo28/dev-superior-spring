@@ -27,3 +27,14 @@ spring.datasource.password=
 spring.jpa.hibernate.ddl-auto=create
 spring.jpa.show-sql=true
 spring.jpa.properties.hibernate.format_sql=true
+
+
+
+spring.jpa.database=POSTGRESQL
+spring.datasourse.plataform=postgres
+spring.database.driverClassName=org.postgresql.Driver
+spring.jpa.hibernate.ddl-auto=create
+srping.datasource.url=jdbc:postgresql://locahost:5432/postgres
+spring.datasource.username=postgres
+spring.datasource.password=admin
+

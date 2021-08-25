@@ -6,8 +6,8 @@ import javax.persistence.GenerationType;
 import javax.persistence.Id;
 import javax.persistence.Table;
 
+@Entity
 @Table(name = "author")
-@Entity(name = "author")
 public class Author {
 	
 	@Id
