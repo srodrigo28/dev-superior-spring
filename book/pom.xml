@@ -17,6 +17,37 @@
 		<java.version>11</java.version>
 	</properties>
 	<dependencies>
+	
+		<dependency>
+	      <groupId>org.hibernate</groupId>
+	      <artifactId>hibernate-agroal</artifactId>
+	      <version>5.4.10.Final</version>
+	      <type>pom</type>
+	    </dependency>
+	    
+	    <dependency>
+		    <groupId>org.springframework.data</groupId>
+		    <artifactId>spring-data-jpa</artifactId>
+		</dependency>
+		
+		<dependency>
+			<groupId>mysql</groupId>
+			<artifactId>mysql-connector-java</artifactId>
+			<scope>runtime</scope>
+		</dependency>
+		
+        <dependency>
+            <groupId>org.postgresql</groupId>
+            <artifactId>postgresql</artifactId>
+            <scope>runtime</scope>
+        </dependency>
+        
+        <dependency>
+		    <groupId>com.h2database</groupId>
+		    <artifactId>h2</artifactId>
+		    <scope>test</scope>
+		</dependency>
+		
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-thymeleaf</artifactId>
