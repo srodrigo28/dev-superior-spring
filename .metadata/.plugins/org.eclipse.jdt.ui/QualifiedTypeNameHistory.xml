@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
     <fullyQualifiedTypeName name="com.devsuperior.hrworker.repositories.WorkerRepository"/>
     <fullyQualifiedTypeName name="com.devsuperior.hrworker.entities.Worker"/>
     <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.PathVariable"/>
     <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RequestMapping"/>
-    <fullyQualifiedTypeName name="java.util.List"/>
     <fullyQualifiedTypeName name="br.com.alura.forum.modelo.Curso"/>
     <fullyQualifiedTypeName name="java.util.Arrays"/>
     <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.ResponseBody"/>
@@ -19,23 +17,37 @@
     <fullyQualifiedTypeName name="javax.persistence.Enumerated"/>
     <fullyQualifiedTypeName name="javax.persistence.EnumType"/>
     <fullyQualifiedTypeName name="javax.persistence.OneToMany"/>
-    <fullyQualifiedTypeName name="org.springframework.stereotype.Controller"/>
-    <fullyQualifiedTypeName name="org.springframework.web.servlet.ModelAndView"/>
-    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.GetMapping"/>
     <fullyQualifiedTypeName name="org.apache.logging.log4j.message.AsynchronouslyFormattable"/>
-    <fullyQualifiedTypeName name="javax.persistence.Column"/>
-    <fullyQualifiedTypeName name="javax.persistence.ManyToOne"/>
-    <fullyQualifiedTypeName name="javax.persistence.JoinColumn"/>
     <fullyQualifiedTypeName name="br.com.book.entity.Author"/>
-    <fullyQualifiedTypeName name="org.springframework.data.repository.CrudRepository"/>
     <fullyQualifiedTypeName name="br.com.book.entity.Book"/>
-    <fullyQualifiedTypeName name="javax.persistence.Entity"/>
     <fullyQualifiedTypeName name="java.io.Serializable"/>
     <fullyQualifiedTypeName name="org.springframework.data.jpa.repository.JpaRepository"/>
     <fullyQualifiedTypeName name="br.com.book.repository.WorkerRepository"/>
     <fullyQualifiedTypeName name="br.com.book.entity.Worker"/>
+    <fullyQualifiedTypeName name="br.com.book.repository.ClienteRepository"/>
+    <fullyQualifiedTypeName name="br.com.book.entity.Cliente"/>
+    <fullyQualifiedTypeName name="br.com.book.repository.ProdutoRepository"/>
+    <fullyQualifiedTypeName name="br.com.book.entity.ProdutoEntity"/>
+    <fullyQualifiedTypeName name="javax.persistence.Column"/>
+    <fullyQualifiedTypeName name="br.com.book.entity.BookEntity"/>
+    <fullyQualifiedTypeName name="br.com.book.entity.AuthorEntity"/>
+    <fullyQualifiedTypeName name="org.springframework.data.repository.CrudRepository"/>
+    <fullyQualifiedTypeName name="br.com.books2.entities.Author"/>
+    <fullyQualifiedTypeName name="br.com.books2.entities.Book"/>
+    <fullyQualifiedTypeName name="javax.persistence.Entity"/>
     <fullyQualifiedTypeName name="javax.persistence.Table"/>
     <fullyQualifiedTypeName name="javax.persistence.Id"/>
     <fullyQualifiedTypeName name="javax.persistence.GeneratedValue"/>
     <fullyQualifiedTypeName name="javax.persistence.GenerationType"/>
+    <fullyQualifiedTypeName name="javax.persistence.ManyToOne"/>
+    <fullyQualifiedTypeName name="javax.persistence.JoinColumn"/>
+    <fullyQualifiedTypeName name="org.springframework.stereotype.Controller"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.GetMapping"/>
+    <fullyQualifiedTypeName name="org.springframework.web.servlet.ModelAndView"/>
+    <fullyQualifiedTypeName name="org.springframework.stereotype.Service"/>
+    <fullyQualifiedTypeName name="br.com.books.service.AuthorService"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
+    <fullyQualifiedTypeName name="br.com.books.entities.Author"/>
+    <fullyQualifiedTypeName name="br.com.books.repositories.AuthorRepository"/>
 </qualifiedTypeNameHistroy>
