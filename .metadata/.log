@@ -3336,3 +3336,27 @@ org.eclipse.core.internal.resources.ResourceException: Marker id 2845 not found.
 
 !ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-26 21:47:10.202
 !MESSAGE executing callback sts4.classpath.obEBirJk SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-26 22:05:14.329
+!MESSAGE exists = false open = true => deleted = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-26 22:05:14.330
+!MESSAGE buffering callback sts4.classpath.obEBirJk book true 0
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-26 22:05:14.331
+!MESSAGE executing callback sts4.classpath.obEBirJk 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-26 22:05:14.338
+!MESSAGE executing callback sts4.classpath.obEBirJk SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-26 22:27:21.949
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.obEBirJk
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-26 22:27:21.950
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.obEBirJk
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-26 22:27:21.950
+!MESSAGE subsribers = {}
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-26 22:27:21.951
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.obEBirJk => OK

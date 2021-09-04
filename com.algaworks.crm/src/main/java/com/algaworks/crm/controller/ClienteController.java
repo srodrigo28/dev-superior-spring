@@ -17,7 +17,7 @@ import com.algaworks.crm.ClienteRepository;
 import com.algaworks.crm.model.Cliente;
 
 @RestController
-@RequestMapping("/clientes")
+@RequestMapping("/cliente")
 public class ClienteController {
 	
 	@Autowired
@@ -28,13 +28,13 @@ public class ClienteController {
 		return clienteRepository.findAll();
 	}
 	
-	@GetMapping("clientes/{id}")
+	@GetMapping("/cliente/{id}")
 	public Cliente getClienteId(@PathVariable Long id) {
 		return clienteRepository.getOne(id);
 	}
 	
-	@DeleteMapping("/clientes/{id}")
-    public void remove(@PathVariable Long id){
+	@DeleteMapping("/cliente/{id}")
+    public void remove( @PathVariable Long id){
     	clienteRepository.deleteById(id);
     }
 	
